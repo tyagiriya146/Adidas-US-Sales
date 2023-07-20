@@ -1,2 +1,7 @@
-# Adidas-US-Sales
-The project is about analyzing the dataset of Adidas US and answer the questions of the analysis.
+### Adidas-US-Sales
+
+**Source data:** https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset?resource=download
+
+**DATASET:** This is internal data from the Adidas company
+
+**DATA COLLECTION:** This data is administratively collected by Adidas company the forma automatic.
